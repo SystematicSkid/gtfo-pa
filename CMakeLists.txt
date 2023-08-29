@@ -2,4 +2,6 @@ cmake_minimum_required(VERSION 3.20)
 
 project(gtfo-pa)
 
-add_subdirectory( module )
+include_directories( ${CMAKE_CURRENT_SOURCE_DIR}/deps )
+
+add_subdirectory( plugin )
