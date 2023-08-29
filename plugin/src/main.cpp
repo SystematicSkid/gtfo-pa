@@ -120,7 +120,7 @@ struct MumbleStringWrapper mumble_getAuthor() {
 }
 
 mumble_version_t mumble_getVersion() {
-        static const mumble_version_t version = {0, 1, 2};
+        static const mumble_version_t version = {1, 0, 0};
         return version;
 }
 

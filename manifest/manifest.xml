@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bundle version="1.0.0">
   <assets>
-    <plugin os="windows" arch="x64">gtfo-pa-plugin.dll</plugin>
+    <plugin os="windows" arch="x64">gtfo.dll</plugin>
   </assets>
   <name>GTFO</name>
   <version>1.0.0</version>
