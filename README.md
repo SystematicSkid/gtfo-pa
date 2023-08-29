@@ -6,6 +6,7 @@
 - [Requirements](#requirements)
 - [Installation](#installation)
   - [Manual Installation](#manual-installation)
+  - [Automatic Installation](#automatic-installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
   - [In-Game](#in-game)
@@ -52,6 +53,11 @@ I'm a big fan of this game and I thought that adding this feature would be a gre
 3. Find 'GTFO' in the Mumble Plugins list and enable it.
 4. Enable 'Link to Game and Transmit Position' and 'PA' in the Mumble Plugins settings.
 5. Start GTFO and enjoy!
+
+### Automatic Installation
+1. Download the latest gtfo.mumble_plugin file from the [Releases] page.
+2. Double click the gtfo.mumble_plugin file or use the 'Install Plugin' button in the Mumble Plugins settings.
+3. Find 'GTFO' in the Mumble Plugins list and enable it.
 ---
 
 ## Configuration
@@ -105,6 +111,8 @@ I will do my best to review and merge pull requests in a timely manner.
 
 - v1.0.0
   - Initial Release
+- v1.0.1
+  - Add mumble manifest installation
 
 ---
 
